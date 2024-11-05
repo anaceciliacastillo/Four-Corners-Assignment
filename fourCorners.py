@@ -117,6 +117,7 @@ filename = 'tinyCorners.txt'
 # BFS:
 # -------------------------------------------------------
 
+p = Problem(filename)
 
  
 # record start time
